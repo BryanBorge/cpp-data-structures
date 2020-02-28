@@ -1,0 +1,10 @@
+﻿  main.cpp
+  Purchase.cpp
+  PurchaseCollection.cpp
+  PurchaseList.cpp
+  PurchaseQueue.cpp
+  PurchaseStack.cpp
+  Generating Code...
+d:\farmingdale\fall semester 2018\data structures - bcs 370\homework\hw 4 due 11-19\borgesanohw4\borgesanohw4\purchasestack.cpp(185): warning C4715: 'PurchaseStack::Top': not all control paths return a value
+d:\farmingdale\fall semester 2018\data structures - bcs 370\homework\hw 4 due 11-19\borgesanohw4\borgesanohw4\purchasestack.cpp(166): warning C4715: 'PurchaseStack::Pop': not all control paths return a value
+  BorgesanoHW4.vcxproj -> D:\Farmingdale\Fall Semester 2018\Data Structures - BCS 370\Homework\HW 4 Due 11-19\BorgesanoHW4\Debug\BorgesanoHW4.exe
